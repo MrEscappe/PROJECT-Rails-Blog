@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+#comment_commenter,
+#comment_body {
+    width: 30%;
+}
